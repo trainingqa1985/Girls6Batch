@@ -1,0 +1,12 @@
+<suite name="FirsstSuite" verbose="1">
+
+	<test name="DemoTest">
+		<classes>
+			<class name="FirstTestClass" />
+			<class name="SecondTestClass" />
+		
+		</classes>
+
+	</test>
+
+</suite>
