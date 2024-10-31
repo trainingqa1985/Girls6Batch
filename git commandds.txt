@@ -1,0 +1,26 @@
+
+// first time to fetch the code to local
+git clone url
+
+// it will show all your local changes
+git status
+
+//it will add the changes for commiting
+git add filename
+
+//it will commit my changes
+git commit -m "commit message"
+
+//push the changes to repository
+
+git push
+
+//list the branches
+
+git branch
+
+//create a new branch and move to new branch
+
+git checkout -b branchname
+
+
